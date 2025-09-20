@@ -4,6 +4,6 @@ table{
 			background-color : yellow;
 		}
 	table,tr,th,tbody{
-		border 1px;
+		border 1px solid;
 		
 	}
