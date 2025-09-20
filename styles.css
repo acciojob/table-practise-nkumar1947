@@ -3,7 +3,7 @@
 table{
 			background-color : yellow;
 		}
-	table,tr,th,tbody{
+	tr,th,tbody{
 		border 1px solid;
 		
 	}
